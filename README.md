@@ -3,7 +3,7 @@
 ####  🎓 Estudante de <b>Ciência da Computação</b> na <b>UFERSA</b><br>
 ####  💻 Gosto de resolver problemas e aprender coisas novas todos os dias 
 
-<hr style="border: none; border-top: 1px dashed #ffb6c1; margin: 20px 0;">
+---
 
 ### Tecnologias que estou aprendendo
 
